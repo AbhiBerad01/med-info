@@ -21,7 +21,7 @@ You may also see any lint errors in the console.
 1.Validation of Email(is valid or not).\
 2.Password Hashing and salting.\
 3.Use of JWT token.\
-4.Use middlewares to know user is genune or not.\
+4.Use middlewares to know user is genune or not.
 
 
 ## Available Features
@@ -29,5 +29,5 @@ You may also see any lint errors in the console.
 1.Creating Medical Record.\
 2.Displaying Medical Record.\
 3.Advance Search Feature.\
-4.Storing Searching Records\
+4.Storing Searching Records
 
