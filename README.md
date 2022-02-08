@@ -18,16 +18,16 @@ You may also see any lint errors in the console.
 
 ## Security Features
 
-1.Validation of Email(is valid or not).
-2.Password Hashing and salting.
-3.Use of JWT token.
-4.Use middlewares to know user is genune or not.
+1.Validation of Email(is valid or not).\
+2.Password Hashing and salting.\
+3.Use of JWT token.\
+4.Use middlewares to know user is genune or not.\
 
 
 ## Available Features
 
-1.Creating Medical Record.
-2.Displaying Medical Record.
-3.Advance Search Feature.
-4.Storing Searching Records
+1.Creating Medical Record.\
+2.Displaying Medical Record.\
+3.Advance Search Feature.\
+4.Storing Searching Records\
 
